@@ -47,7 +47,7 @@ export default {
 </script>
 
 <template>
-  <div class="card" @click="changeFace">
+  <div class="card" :class="{noHover : isStart}" @click="changeFace">
     <div class="card__face card__face--front" :class="{ showFront: isClick }">
       <img src="@/assets/card-front.png" />
     </div>
@@ -97,6 +97,10 @@ img {
 }
 .card:hover {
   transform: scale(1.1);
+}
+
+.noHover:hover{
+  transform: scale(1);
 }
 
 .card.is-flipped {
