@@ -1,24 +1,8 @@
 # three-card-monte
 
-## Project setup
-```
-npm install
-```
+it's three card monte game also known as the find the lady
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+You can test  in https://vue-three-card-monte.herokuapp.com/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![](gif.gif)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
