@@ -1,6 +1,6 @@
-# three-card-monte
+# Three Card Monte
 
-it's three card monte game also known as the find the lady
+It is three card monte game a.k.a the find the lady
 
 [live demo](https://vue-three-card-monte.herokuapp.com/)
 
